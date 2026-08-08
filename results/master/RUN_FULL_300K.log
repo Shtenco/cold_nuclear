@@ -1,0 +1,11 @@
+=== LENR MASTER HISTORY MODEL ===
+Calibrated low-energy D-D S0: 113.572 keV*b
+Bare D-D @300 K: log10(P) = -247.609 W/m^3
+Naive Ue=1.7 keV @300 K stress-test: log10(P) = 16.716 W/m^3 [UNPHYSICAL extrapolation]
+Branch-B pulsed peak: 0.234036 W/cm^3
+Parameter scan: 300,000 points; candidates=8,961
+Corrected idealized 1 L D2O D mass: 222.37 g
+Corrected idealized 1 L D2O D-D energy: 1.944e+13 J
+B-10 corrected rate power at historical Phi: 1.448 W
+July 2026 subcritical M(k_eff=0.84): 6.25; net=-22585.70 W
+Scientific status: hypotheses and legacy claims are explicitly segregated from standard physics bookkeeping.
