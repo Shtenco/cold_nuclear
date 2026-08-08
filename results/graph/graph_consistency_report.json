@@ -1,0 +1,16 @@
+{
+  "max_abs_error_total_b": 7.105427357601002e-15,
+  "max_abs_error_change_b": 1.1102230246251565e-16,
+  "max_abs_error_fraction": 7.979727989493313e-17,
+  "table_graph_gate_pass": true,
+  "nodes": 14,
+  "edges": 10,
+  "diagnostic_paths": [
+    {"parent": "139La", "daughter": "140Ce", "path": "139La -> 140La -> 140Ce", "edge_count": 2, "element_changed": true},
+    {"parent": "89Y", "daughter": "90Zr", "path": "89Y -> 90Y -> 90Zr", "edge_count": 2, "element_changed": true},
+    {"parent": "140Ce", "daughter": "141Pr", "path": "140Ce -> 141Ce -> 141Pr", "edge_count": 2, "element_changed": true},
+    {"parent": "108Pd", "daughter": "109Ag", "path": "108Pd -> 109Pd -> 109Ag", "edge_count": 2, "element_changed": true},
+    {"parent": "158Gd", "daughter": "159Tb", "path": "158Gd -> 159Gd -> 159Tb", "edge_count": 2, "element_changed": true}
+  ],
+  "hypothesis_isolation_rule": "No material-phase hypothesis edge is present in this graph. Adding/removing such an edge may scale a source term but must not alter evaluated capture/decay identities."
+}
